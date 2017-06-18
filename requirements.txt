@@ -1,0 +1,6 @@
+nose
+sphinx
+pyside
+PyPDF2
+reportlab
+pyinstaller
